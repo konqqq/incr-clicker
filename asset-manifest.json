@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/incr-clicker/static/css/main.1d3ae731.css",
+    "main.js": "/incr-clicker/static/js/main.8c22e197.js",
+    "static/js/453.161e1c8b.chunk.js": "/incr-clicker/static/js/453.161e1c8b.chunk.js",
+    "static/media/cookie2.png": "/incr-clicker/static/media/cookie2.489b904399073eefb5e6.png",
+    "index.html": "/incr-clicker/index.html",
+    "main.1d3ae731.css.map": "/incr-clicker/static/css/main.1d3ae731.css.map",
+    "main.8c22e197.js.map": "/incr-clicker/static/js/main.8c22e197.js.map",
+    "453.161e1c8b.chunk.js.map": "/incr-clicker/static/js/453.161e1c8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3ae731.css",
+    "static/js/main.8c22e197.js"
+  ]
+}
